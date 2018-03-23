@@ -11,5 +11,6 @@ Summary: a story of how Salt Master revolutionized the way my organization manag
 Introduction to SaltStack
 ##############
 
+~Technical Environment: SaltStack v1.2123, AWS EC2 (CentOS ami)~
 
-Testing. 
+TLDR; SaltStack rocks. Let Salt manage your infrastructure and you’ll look like a hero.
